@@ -4,8 +4,11 @@
 **rahul1205/rahul1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋 -->
 
-[![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul1205&theme=nightowl&count_private=true&show_icons=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1205&theme=nightowl&count_private=true&show_icons=true)](https://github.com/rahul1205/github-readme-stats)
+[![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul1205&theme=nightowl&count_private=true&show_icons=true)](https://github.com/rahul1205)<br>
+
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></img><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1205&theme=nightowl&layout=compact)](https://github.com/rahul1205/github-readme-stats)<br>
 
 
 
