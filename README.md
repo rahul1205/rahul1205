@@ -4,7 +4,7 @@
 **rahul1205/rahul1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 
-[![Nimish's github stats](https://github-readme-stats.vercel.app/api?username=rahul1205&theme=great-gatsby&count_private=true&show_icons=true)]
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul1205&theme=great-gatsby&count_private=true&show_icons=true)
 
 
 Here are some ideas to get you started:
