@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Serverless Computing
 - 🌱 I’m currently learning various services on AWS
 - 👯 I’m looking to collaborate on Python projects
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Python, AWS, NLP, Web Development
 - 📫 How to reach me: @ linkedin https://www.linkedin.com/in/rahul1205/
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
+<!-- - 🤔 I’m looking for help with ... -->
