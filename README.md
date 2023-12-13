@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></img>
-
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300"'></img>
 ## Some stats?
 
 [![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul1205&theme=nightowl&count_private=true&show_icons=true)](https://github.com/rahul1205)
