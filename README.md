@@ -6,6 +6,7 @@
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></img>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1205&theme=nightowl&layout=compact)](https://github.com/rahul1205/github-readme-stats)<br>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ftl2fwbdojasmfney4xbkt6g5q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 Here are some ideas to get you started:
 
