@@ -5,6 +5,7 @@
 ## Some stats?
 
 [![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul1205&theme=nightowl&count_private=true&show_icons=true)](https://github.com/rahul1205)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1205&theme=nightowl&layout=compact)](https://github.com/rahul1205/github-readme-stats)<br>
 
 ## Spotify recommendations
