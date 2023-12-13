@@ -14,7 +14,7 @@
 
 ## About me
 
-- 🔭 I’m currently working on Serverless Computing
+- 🔭 I’m currently working on Terraform
 - 🌱 I’m currently learning various services on AWS
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about Python, AWS, NLP, Web Development
